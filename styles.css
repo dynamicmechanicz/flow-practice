@@ -1,0 +1,34 @@
+*   {
+    box-sizing: border-box;
+}
+
+body    {
+    background-color: #212121;
+}
+
+.container  {
+    border: 8px solid lightcoral;
+    width:80%;
+    margin:auto;
+}
+
+.headerc    {
+    border:2px solid coral;
+    margin:9%;
+    height: 50px;
+}
+
+.chunk1 {
+    display: flex;
+    justify-content: space-around;
+}
+.chunk2 {
+    display: flex;
+    justify-content: space-around;
+}
+.box-small  {
+    border:2px solid coral;
+    width:150px;
+    height:150px;
+    margin-bottom:24px;
+}
